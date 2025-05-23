@@ -1,0 +1,25 @@
+body {
+   font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    background-color: #ffe6e6;
+    margin: 20px;
+}
+
+h1 {
+    color: #660029;
+    font-size: 50px;
+
+}
+
+button {
+    padding: 10px 20px;
+    background-color:#6666ff ;
+    color: black;
+     border-color: #000000;
+    cursor: pointer;
+}
+
+button:hover {
+  
+     background-color: #000080;
+}
